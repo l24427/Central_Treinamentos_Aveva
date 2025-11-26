@@ -1,6 +1,6 @@
 {
-	"name": "modelo_tela_login",
-	"short_name": "modelo_tela_login",
+	"name": "Portal Treinamentos",
+	"short_name": "Portal Treinamentos",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

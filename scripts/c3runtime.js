@@ -1295,8 +1295,6 @@ self.C3_ExpressionFuncs = [
 		() => "Dicionario de usuários",
 		() => "l64959",
 		() => "Robson",
-		() => "l64922",
-		() => "Maria",
 		() => "l18713",
 		() => "Glauco",
 		() => "l19662",
@@ -1367,4 +1365,5 @@ self.C3_ExpressionFuncs = [
 
 
 }
+
 
